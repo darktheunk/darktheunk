@@ -1,39 +1,39 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=0:091E3A,100:2FACFF&height=150&section=header&text=Raman%20Raj&fontSize=70&animation=fadeIn&fontAlignY=50&fontColor=58a6ff)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=0:3B0A14,100:DC143C&height=150&section=header&text=Raman%20Raj&fontSize=70&animation=fadeIn&fontAlignY=50&fontColor=DC143C)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2FACFF&center=true&vCenter=true&width=450&lines=AI+%2F+ML+Engineer;Linux+Enthusiast;Systems+Architect;Curious+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DC143C&center=true&vCenter=true&width=450&lines=AI+%2F+ML+Student;Linux+Enthusiast;Systems+Builder;Curious+Explorer)](https://git.io/typing-svg)
 
-![Views](https://komarev.com/ghpvc/?username=darktheunk1&color=2FACFF&style=flat-square&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=darktheunk1&color=DC143C&style=flat-square&label=PROFILE+VIEWS)
 
 <div align="center">
-  <a href="https://ramanraj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-091E3A?style=for-the-badge&logo=globus&logoColor=2FACFF" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/darktheunk"><img src="https://img.shields.io/badge/LinkedIn-091E3A?style=for-the-badge&logo=linkedin&logoColor=2FACFF" alt="LinkedIn" /></a>
-  <a href="mailto:rr737902@gmail.com"><img src="https://img.shields.io/badge/Email-091E3A?style=for-the-badge&logo=gmail&logoColor=2FACFF" alt="Email" /></a>
+  <a href="https://ramanraj.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-3B0A14?style=for-the-badge&logo=globus&logoColor=DC143C" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/darktheunk"><img src="https://img.shields.io/badge/LinkedIn-3B0A14?style=for-the-badge&logo=linkedin&logoColor=DC143C" alt="LinkedIn" /></a>
+  <a href="mailto:rr737902@gmail.com"><img src="https://img.shields.io/badge/Email-3B0A14?style=for-the-badge&logo=gmail&logoColor=DC143C" alt="Email" /></a>
 </div>
 
 ---
 
-![Summary](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%93%8B%20EXECUTIVE%20SUMMARY&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+![Summary](https://capsule-render.vercel.app/api?type=rect&color=0:3B0A14,100:DC143C&height=45&text=%F0%9F%91%8B%20A%20LITTLE%20ABOUT%20ME&fontSize=25&fontAlignY=50&fontColor=DC143C)
 
 </div>
 
-**Second-Year B.Tech Student in AI/ML at Manav Rachna University**
+## Hi, I'm Raman 👋
 
-I am a passionate technologist focused on building strong computer science foundations, studying machine learning models, and exploring Linux systems and web development.
+I'm a second-year B.Tech student studying Artificial Intelligence and Machine Learning at Manav Rachna University. I enjoy understanding how things work, building useful projects, and learning by getting my hands dirty with code.
 
-### ⚡ Who I Am
+### What I'm exploring
 
-- 🎓 **Education**: Pursuing B.Tech in Artificial Intelligence & Machine Learning at Manav Rachna University (2nd Year).
-- 🧠 **Interests**: Machine Learning, Systems Programming, and Web Development.
-- 🌱 **Learning**: Exploring deep neural networks, Linux environments, and clean code architecture.
-- 💬 **Ask Me About**: Python, Linux scripting, and Java.
+- 🎓 **Studying**: B.Tech in Artificial Intelligence & Machine Learning
+- 🧠 **Interested in**: Machine learning, systems programming, and web development
+- 🌱 **Currently learning**: Deep neural networks, Linux environments, and clean code architecture
+- 💬 **Happy to talk about**: Python, Linux scripting, and Java
 
 <br>
 
 <div align="center">
 
-![Proficiency](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%9B%A0%EF%B8%8F%20CORE%20COMPETENCIES&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+![Proficiency](https://capsule-render.vercel.app/api?type=rect&color=0:3B0A14,100:DC143C&height=45&text=%F0%9F%9B%A0%EF%B8%8F%20TOOLS%20I%20USE&fontSize=25&fontAlignY=50&fontColor=DC143C)
 
 <table align="center" width="100%">
   <tr>
@@ -94,23 +94,23 @@ I am a passionate technologist focused on building strong computer science found
 
 <br>
 
-![Projects](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%9A%80%20KEY%20PROJECTS&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+![Projects](https://capsule-render.vercel.app/api?type=rect&color=0:3B0A14,100:DC143C&height=45&text=%F0%9F%9A%80%20PROJECTS%20I%27VE%20BUILT&fontSize=25&fontAlignY=50&fontColor=DC143C)
 
 </div>
 
-| ▣ Project | ❯ Description | ❯ Tech Stack | ❯ Status |
+| Project | What I built | Tech used | Status |
 | :--- | :--- | :--- | :--- |
-| **[EduNexus 🔗](https://github.com/auralumenor/EduNexus)** | Developed an enterprise-grade library management system. Engineered database schemas in PostgreSQL, implemented secure backend APIs, and built a real-time admin tracking dashboard. | `React` `Node.js` `Express` `PostgreSQL` | `🟢 Active` |
-| **[Personal Portfolio 🔗](https://ramanraj.netlify.app/)** | Created a high-performance, responsive portfolio showcasing personal projects. Optimized asset loading and integrated CI/CD deployment via Netlify. | `HTML5` `CSS3` `JavaScript` | `🟢 Live` |
-| **Advanced Systems Calculator** | Programmed a modular command-line scientific calculator in C, implementing custom operator precedence parsing and secure memory allocation. | `C Language` | `🔵 Completed` |
-| **Linux Ecosystem Audit** | Authored Bash administrative scripts using AWK/sed text processing to automate performance monitoring and system audit reports. | `Bash` `Vim` `Linux` | `🔵 Completed` |
-| **House Price Prediction** | Built a supervised machine learning model. Cleaned Ames housing data, performed feature engineering, and trained/tuned regression algorithms in Scikit-Learn. | `Python` `Scikit-Learn` `Pandas` | `🔵 Completed` |
+| **[EduNexus 🔗](https://github.com/auralumenor/EduNexus)** | A library management system with PostgreSQL data models, secure APIs, and a real-time admin dashboard. | `React` `Node.js` `Express` `PostgreSQL` | `🟢 Active` |
+| **[Personal Portfolio 🔗](https://ramanraj.netlify.app/)** | A responsive portfolio for sharing my work, with optimized assets and automated Netlify deployment. | `HTML5` `CSS3` `JavaScript` | `🟢 Live` |
+| **Advanced Systems Calculator** | A modular command-line scientific calculator with custom operator-precedence parsing and careful memory management. | `C` | `🔴 Complete` |
+| **Linux Ecosystem Audit** | Bash scripts that automate performance monitoring and system audit reports with AWK and sed. | `Bash` `Vim` `Linux` | `🔴 Complete` |
+| **House Price Prediction** | A supervised learning project covering data cleaning, feature engineering, and tuned regression models. | `Python` `Scikit-Learn` `Pandas` | `🔴 Complete` |
 
 <br>
 
 <div align="center">
 
-![Metrics](https://capsule-render.vercel.app/api?type=rect&color=0:091E3A,100:2FACFF&height=45&text=%F0%9F%93%8A%20TECHNICAL%20METRICS&fontSize=25&fontAlignY=50&fontColor=58a6ff)
+![Metrics](https://capsule-render.vercel.app/api?type=rect&color=0:3B0A14,100:DC143C&height=45&text=%F0%9F%93%8A%20MY%20GITHUB%20ACTIVITY&fontSize=25&fontAlignY=50&fontColor=DC143C)
 
 <br>
 
@@ -122,7 +122,7 @@ I am a passionate technologist focused on building strong computer science found
   </tr>
   <tr>
     <td align="center" valign="top" style="padding: 10px;">
-      <img src="https://streak-stats.demolab.com/?user=darktheunk&hide_border=true&background=0D1117&stroke=2FACFF&ring=2FACFF&fire=2FACFF&currStreakNum=2FACFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=darktheunk&hide_border=true&background=0D1117&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakNum=DC143C&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
