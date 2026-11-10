@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           
           # Basic Settings
-          user: auralumenor
+          user: darktheunk
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
