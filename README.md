@@ -100,7 +100,7 @@ I'm a second-year B.Tech student studying Artificial Intelligence and Machine Le
 
 | Project | What I built | Tech used | Status |
 | :--- | :--- | :--- | :--- |
-| **[EduNexus 🔗](https://github.com/auralumenor/EduNexus)** | A library management system with PostgreSQL data models, secure APIs, and a real-time admin dashboard. | `React` `Node.js` `Express` `PostgreSQL` | `🟢 Active` |
+| **[EduNexus 🔗](https://github.com/darktheunk/EduNexus)** | A library management system with PostgreSQL data models, secure APIs, and a real-time admin dashboard. | `React` `Node.js` `Express` `PostgreSQL` | `🟢 Active` |
 | **[Personal Portfolio 🔗](https://ramanraj.netlify.app/)** | A responsive portfolio for sharing my work, with optimized assets and automated Netlify deployment. | `HTML5` `CSS3` `JavaScript` | `🟢 Live` |
 | **Advanced Systems Calculator** | A modular command-line scientific calculator with custom operator-precedence parsing and careful memory management. | `C` | `🔴 Complete` |
 | **Linux Ecosystem Audit** | Bash scripts that automate performance monitoring and system audit reports with AWK and sed. | `Bash` `Vim` `Linux` | `🔴 Complete` |
@@ -165,7 +165,7 @@ I'm a second-year B.Tech student studying Artificial Intelligence and Machine Le
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darktheunk/darktheunk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darktheunk/darktheunk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/auralumenor/auralumenor/output/github-contribution-grid-snake.svg" width="820" />
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/darktheunk/darktheunk/output/github-contribution-grid-snake.svg" width="820" />
 </picture>
 
 <br><br>
